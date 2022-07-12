@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee38c0bc-9323-473f-bafa-82bd3ccb1ede" name="Changes" comment="My tests" />
+    <list default="true" id="ee38c0bc-9323-473f-bafa-82bd3ccb1ede" name="Changes" comment="My tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yandex/praktikum/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/praktikum/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yandex/praktikum/Praktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/praktikum/Praktikum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Sprint_4-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Sprint_4-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/yandex/praktikum/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/yandex/praktikum/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/yandex/praktikum/Praktikum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/yandex/praktikum/Praktikum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.yandex.praktikum.AccountTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.yandex.praktikum.AccountTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.yandex.praktikum.AccountTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.yandex.praktikum.AccountTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,8 +100,17 @@
       <option name="presentableId" value="Default" />
       <updated>1657474464348</updated>
       <workItem from="1657474465828" duration="499000" />
-      <workItem from="1657475037363" duration="459000" />
+      <workItem from="1657475037363" duration="1693000" />
+      <workItem from="1657545994701" duration="3175000" />
     </task>
+    <task id="LOCAL-00001" summary="My tests">
+      <created>1657475538019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657475538019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="ru.yandex.praktikum.AccountTest" time="0.011" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="ru.yandex.praktikum.AccountTest" time="0.01" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.3.2"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -62,9 +62,9 @@
   <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[1]" time="0"/>
   <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[2]" time="0"/>
   <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[3]" time="0"/>
-  <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[4]" time="0.001"/>
+  <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[4]" time="0"/>
   <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[5]" time="0"/>
-  <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[6]" time="0"/>
+  <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[6]" time="0.001"/>
   <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[7]" time="0"/>
-  <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[8]" time="0.001"/>
+  <testcase classname="ru.yandex.praktikum.AccountTest" name="checkAccount[8]" time="0"/>
 </testsuite>

@@ -7,7 +7,6 @@ import static org.junit.Assert.*;
 
 @RunWith(Parameterized.class)
 public class AccountTest {
-
     String name;
     Boolean expected;
 
@@ -15,7 +14,6 @@ public class AccountTest {
         this.name = name;
         this.expected = expected;
     }
-
 
     @Parameterized.Parameters
     public static Object[] getAccountData() {
